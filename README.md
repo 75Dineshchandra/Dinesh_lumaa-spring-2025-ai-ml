@@ -12,7 +12,7 @@ This project implements a **content-based recommendation system** that suggests 
 ## 📊 Dataset  
 - The dataset consists of movies with their **overviews (descriptions)**.  
 - **Source**: A small **public dataset** (100–500 movies) that includes movie titles and plot summaries.  
-- The dataset is included in this repository as **`[movies_metadata.csv](Data link='https://drive.google.com/file/d/1IAifkLYGrkllrK9c7WHDl9gaAo-3eY6x/view?usp=drive_link')`** or can be downloaded from a specified source.  
+- The dataset is included in this repository as **`[movies_metadata.csv](Data link='https://drive.google.com/file/d/1IAifkLYGrkllrK9c7WHDl9gaAo-3eY6x/view?usp=drive_link')`** . connect to drive in colab and copy the file path and replace it with your own in the code file.
 
 ## ⚙️ Approach  
 1. **Preprocessing:** Clean and normalize the text (lowercasing, removing special characters, stopwords, and lemmatization).  
