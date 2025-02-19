@@ -49,8 +49,9 @@ Top 5 Recommended Movies:
 5. Serenity (Similarity: 0.65)
 ```
 
-## 📽️ Short Video Demo  
-[[Watch the Demo]]((https://www.awesomescreenshot.com/video/36753966?key=212b0d94b1fec99f2cc056b6c0e1e74b)) <!-- (https://www.awesomescreenshot.com/video/36753966?key=212b0d94b1fec99f2cc056b6c0e1e74b) -->  
+## 📽️ Short Video Demo 
+[Click_me]((https://www.awesomescreenshot.com/video/36753966?key=212b0d94b1fec99f2cc056b6c0e1e74b))
+(https://www.awesomescreenshot.com/video/36753966?key=212b0d94b1fec99f2cc056b6c0e1e74b) 
 
 ## 💰 Salary Expectation per Month  
 20-30$/hr for the internship  
