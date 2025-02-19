@@ -50,7 +50,7 @@ Top 5 Recommended Movies:
 ```
 
 ## 📽️ Short Video Demo  
-[Watch the Demo](#) <!-- Add a video link once recorded -->  
+[Watch the Demo]((https://www.awesomescreenshot.com/video/36753966?key=212b0d94b1fec99f2cc056b6c0e1e74b)) <!-- Add a video link once recorded -->  
 
 ## 💰 Salary Expectation per Month  
 20-30$/hr for the internship  
